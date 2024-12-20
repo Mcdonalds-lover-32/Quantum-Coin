@@ -1,6 +1,6 @@
 # Quantum-Coin
 https://quantumcoin.glitch.me
-Quantum Coin Miner is a simulated or real-time cryptocurrency mining platform designed to generate, track, and manage a fictional cryptocurrency called Quantum Coin. Its features include:
+
 
 Mining:
 
